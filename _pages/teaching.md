@@ -2,14 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses and Thesis Supervision.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+# Courses
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+* SS 2021 - BDAPRO: Big Data Analytics Project
+* SS 2021 - BDASEM - Big Data Analytics Seminar
+* WS 2020/2021 - Research Oriented Course (ROC) on Data Science and Engineering Systems and Technologies
 
-{% include courses.liquid %}
+
+<br/>
+<br/>
+
+# Thesis Supervision
+
+* Mohammad Ahmad - Operator Placement in IoT Environments 
