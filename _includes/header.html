@@ -31,6 +31,7 @@
               {% endif %}
             </a>
           </li>
+          {% comment %}
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
@@ -42,6 +43,7 @@
             </a>
           </li>
           {% endif %}
+          {% endcomment %}
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}

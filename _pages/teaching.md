@@ -2,10 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses and Thesis Supervision.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Courses
+* SS 2021 - BDAPRO: Big Data Analytics Project
+* SS 2021 - BDASEM - Big Data Analytics Seminar
+* WS 2020/2021 - Research Oriented Course (ROC) on Data Science and Engineering Systems and Technologies
 
-Organize your courses by years, topics, or universities, however you like!
+
+<br/>
+<br/>
+
+# Thesis Supervision
+* Mohammad Ahmad - Operator Placement in IoT Environments 
