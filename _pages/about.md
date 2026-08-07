@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate at <a href="https://www.tu.berlin/">TU Berlin</a> | <a href="/assets/pdf/resume-dwi-nugroho.pdf" download>résumé</a>
+subtitle: Research Associate at <a href="https://www.tu.berlin/">TU Berlin</a> | <a href="/assets/pdf/resume-dwi-nugroho.pdf" download>résumé <i class="fa-solid fa-download fa-xs" aria-hidden="true"></i></a>
 
 profile:
   align: right
