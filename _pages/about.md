@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate at <a href="https://www.tu.berlin/">TU Berlin</a>.
+subtitle: Research Associate at <a href="https://www.tu.berlin/">TU Berlin</a> | <a href="/assets/pdf/resume-dwi-nugroho.pdf" download>résumé</a>
 
 profile:
   align: right
@@ -27,8 +27,6 @@ latest_posts:
 I am a Research Associate at [Database System and Information Management (DIMA)](https://www.dima.tu-berlin.de/) group at TU Berlin. Currently, I am working in the area of stream processing, data processing on modern hardware, and big data system.
 
 I graduated from the Erasmus Mundus Joint master’s degree (EMJMD) program in [Big Data Management and Analytics](https://bdma.ulb.ac.be/bdma/) (BDMA) with specialization in large scale data analytics. I worked on operator placement problem for IoT system for my master thesis. Prior to my master’s study, I graduated from the Computer Science bachelor program at [Universitas Gadjah Mada](https://ugm.ac.id) and worked as a Data Engineer.
-
-<p><a href="{{ '/assets/pdf/resume-dwi-nugroho.pdf' | relative_url }}" download>Download my résumé (PDF)</a></p>
 
 When I am away from the keyboard, I love to do sport, especially Cycling. Get in touch with me on [strava](https://www.strava.com/athletes/39303493).
 
