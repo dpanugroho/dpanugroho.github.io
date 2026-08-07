@@ -30,29 +30,15 @@ I graduated from the Erasmus Mundus Joint master’s degree (EMJMD) program in [
 
 When I am away from the keyboard, I love to do sport, especially Cycling. Get in touch with me on [strava](https://www.strava.com/athletes/39303493).
 
-<section class="mt-5" aria-label="Publications">
-  <p class="text-muted small text-uppercase mb-2"><strong>Publications</strong></p>
-  <p class="text-muted small mb-2">
-    Selected work in stream processing, data systems, and modern hardware.
-  </p>
-  <ul class="small mb-2">
-    <li>
-      <a href="https://doi.org/10.48786/EDBT.2024.17">Benchmarking Stream Join Algorithms on GPUs</a>
-      <span class="text-muted">— EDBT 2024</span>
-    </li>
-    <li>
-      <a href="https://doi.org/10.14778/3773731.3773743">Analyzing Near-Network Hardware Acceleration with Co-Processing on DPUs</a>
-      <span class="text-muted">— PVLDB 2025</span>
-    </li>
-    <li>
-      <a href="https://doi.org/10.1007/s13222-022-00415-0">NebulaStream: Data Management for the Internet of Things</a>
-      <span class="text-muted">— Datenbank-Spektrum 2022</span>
-    </li>
-  </ul>
-  <details>
-    <summary class="small">Browse all 9 publications</summary>
-    <div class="publications small mt-3">
-      {% bibliography --group_by none %}
+<section class="mt-5" aria-label="Selected publications">
+  <p class="text-muted small text-uppercase mb-2"><strong>Selected publications</strong></p>
+  <div class="publications" style="font-size: 0.9rem; opacity: 0.82">
+    {% bibliography --group_by none --query @*[selected=true]* %}
+  </div>
+  <details class="mt-2">
+    <summary class="small">Browse 6 more publications</summary>
+    <div class="publications mt-3" style="font-size: 0.9rem; opacity: 0.82">
+      {% bibliography --group_by none --query @*[selected=false]* %}
     </div>
   </details>
 </section>
