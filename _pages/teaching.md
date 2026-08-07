@@ -9,14 +9,13 @@ nav_order: 6
 
 # Courses
 
-* SS 2021 - BDAPRO: Big Data Analytics Project
-* SS 2021 - BDASEM - Big Data Analytics Seminar
-* WS 2020/2021 - Research Oriented Course (ROC) on Data Science and Engineering Systems and Technologies
-
+- SS 2021 - BDAPRO: Big Data Analytics Project
+- SS 2021 - BDASEM - Big Data Analytics Seminar
+- WS 2020/2021 - Research Oriented Course (ROC) on Data Science and Engineering Systems and Technologies
 
 <br/>
 <br/>
 
 # Thesis Supervision
 
-* Mohammad Ahmad - Operator Placement in IoT Environments 
+- Mohammad Ahmad - Operator Placement in IoT Environments
