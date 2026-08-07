@@ -28,6 +28,8 @@ I am a Research Associate at [Database System and Information Management (DIMA)]
 
 I graduated from the Erasmus Mundus Joint master’s degree (EMJMD) program in [Big Data Management and Analytics](https://bdma.ulb.ac.be/bdma/) (BDMA) with specialization in large scale data analytics. I worked on operator placement problem for IoT system for my master thesis. Prior to my master’s study, I graduated from the Computer Science bachelor program at [Universitas Gadjah Mada](https://ugm.ac.id) and worked as a Data Engineer.
 
+<p><a href="{{ '/assets/pdf/resume-dwi-nugroho.pdf' | relative_url }}" download>Download my résumé (PDF)</a></p>
+
 When I am away from the keyboard, I love to do sport, especially Cycling. Get in touch with me on [strava](https://www.strava.com/athletes/39303493).
 
 <section class="mt-5" aria-label="Selected publications">
