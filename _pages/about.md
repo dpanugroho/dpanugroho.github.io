@@ -30,13 +30,15 @@ I graduated from the Erasmus Mundus Joint master’s degree (EMJMD) program in [
 
 When I am away from the keyboard, I love to do sport, especially Cycling. Get in touch with me on [strava](https://www.strava.com/athletes/39303493).
 
-## publications
-
-<div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
-
-  <details class="mt-3">
-    <summary class="mb-3">Show 5 more publications</summary>
-    {% bibliography --group_by none --query @*[selected=false]* %}
+<section class="mt-5" aria-label="Publications">
+  <p class="text-muted small text-uppercase mb-2"><strong>Publications</strong></p>
+  <p class="text-muted small mb-2">
+    Research on stream processing, data systems, and modern hardware, published at venues including EDBT, PVLDB, SIGMOD, and PACMMOD.
+  </p>
+  <details>
+    <summary class="small">Browse all 9 publications</summary>
+    <div class="publications small mt-3">
+      {% bibliography --group_by none %}
+    </div>
   </details>
-</div>
+</section>
