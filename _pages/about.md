@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # publications are rendered below with an expandable list
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,3 +29,14 @@ I am a Research Associate at [Database System and Information Management (DIMA)]
 I graduated from the Erasmus Mundus Joint master’s degree (EMJMD) program in [Big Data Management and Analytics](https://bdma.ulb.ac.be/bdma/) (BDMA) with specialization in large scale data analytics. I worked on operator placement problem for IoT system for my master thesis. Prior to my master’s study, I graduated from the Computer Science bachelor program at [Universitas Gadjah Mada](https://ugm.ac.id) and worked as a Data Engineer.
 
 When I am away from the keyboard, I love to do sport, especially Cycling. Get in touch with me on [strava](https://www.strava.com/athletes/39303493).
+
+## publications
+
+<div class="publications">
+  {% bibliography --group_by none --query @*[selected=true]* %}
+
+  <details class="mt-3">
+    <summary class="mb-3">Show 5 more publications</summary>
+    {% bibliography --group_by none --query @*[selected=false]* %}
+  </details>
+</div>
